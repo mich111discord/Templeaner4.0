@@ -1,0 +1,1 @@
+Only setup serwer
